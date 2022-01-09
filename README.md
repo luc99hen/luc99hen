@@ -2,7 +2,7 @@
 
 - I am a postgraduate majored in software engineering in Shanghai and strive to be a better programmer.
 - I have a wide range of interests including Web development💻, Unix programming and Cloud Native☁.
-- I believe that computers' ability has not been fully exploited to augment human intellect. And I am currently working on my own digital brain based on Obsidian [here](https://github.com/luc99hen/Obsidian_Lucki).
+- I believe that computers' ability has not been fully exploited to augment human intellect. And I am currently working on my own digital brain based on Obsidian.
 
 
 <!--
