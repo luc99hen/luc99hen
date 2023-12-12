@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- I am a postgraduate majored in software engineering in TongJi University and strive to be a better programmer.
+- I am a software engineer in alibaba cloud and strive to be a better programmer.
 - I have a wide range of interests including Cloud Native☁, Web development💻 & Unix programming.
 - I believe that computers' ability has not been fully exploited to augment human intellect. And I am currently working on my own digital brain based on Obsidian.
 
