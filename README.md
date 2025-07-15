@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- I am a software engineer in alibaba cloud and strive to be a better programmer.
-- I have a wide range of interests including Cloud Native☁, Deep Learning🧠 and Web development💻.
+- I am a software engineer and strive to be a better problem solver.
+- I have a wide range of interests including AI🤖, Cloud Native☁, Deep Learning🧠 and Web development💻.
 - I believe that computers' ability has not been fully exploited to augment human intellect. And I am currently working on my own digital brain based on Obsidian.
 
 
